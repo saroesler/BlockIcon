@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Zikula 1.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-29 09:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lib/Help/Version.php:15 lib/Help/Version.php:17 lib/Help/Api/Account.php:33
+msgid "Help"
+msgstr ""
+
+#: lib/Help/Version.php:16
+msgid "get German help about this system"
+msgstr ""
+
+#: lib/Help/Api/Admin.php:18 lib/Help/Api/Admin.php:19
+msgid "Main"
+msgstr ""
+
+#: templates/Admin/Main.tpl:8
+msgid "Help page"
+msgstr ""
+
+#: templates/Admin/Main.tpl:17
+msgid "Help for user administration"
+msgstr ""
+
+#: templates/Admin/Main.tpl:18
+msgid "User administrantion"
+msgstr ""
+
+#: templates/Admin/Main.tpl:19
+msgid "copy system"
+msgstr ""
+
+#: templates/Admin/Main.tpl:23
+msgid "Help for administrating worships"
+msgstr ""
+
+#: templates/Admin/Main.tpl:24
+msgid "Worship administrantion"
+msgstr ""
+
+#: templates/Admin/Main.tpl:28
+msgid "Help for administrating newsletter"
+msgstr ""
+
+#: templates/Admin/Main.tpl:29
+msgid "Newsletter administrantion"
+msgstr ""
+
+#: templates/Admin/Main.tpl:33
+msgid "Help for page administration"
+msgstr ""
+
+#: templates/Admin/Main.tpl:34
+msgid "Page administrantion"
+msgstr ""
+
+#: templates/Admin/Main.tpl:36
+msgid "Menu administrantion"
+msgstr ""
+
+#: templates/Admin/Main.tpl:40
+msgid "Help for zensors"
+msgstr ""
+
+#: templates/Admin/Main.tpl:41
+msgid "Zensor"
+msgstr ""
+
+#: templates/Admin/Main.tpl:45
+msgid "Help for editors"
+msgstr ""
+
+#: templates/Admin/Main.tpl:46
+msgid "Editors"
+msgstr ""
+
+#: templates/Footer.tpl:2
+msgid "Help &ndash; &copy; Sascha Rösler"
+msgstr ""

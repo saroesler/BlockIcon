@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Zikula 1.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-30 14:00+0000\n"
+"PO-Revision-Date: 2013-07-30 16:07+0100\n"
+"Last-Translator: Sascha Rösler <sa-roelser@t-online.de>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lib/BlockIcon/Version.php:15
+#: lib/BlockIcon/Version.php:17
+msgid "BlockIcon"
+msgstr "BlockIcon"
+
+#: lib/BlockIcon/Version.php:16
+msgid "create an Icon for Blocks in the Useraccount"
+msgstr "ersetllt ein Icon für das Blockmenü im Benutzerkonto"
+
+#: lib/BlockIcon/Api/Admin.php:18
+#: lib/BlockIcon/Api/Admin.php:19
+msgid "Main"
+msgstr "Hauptseite"
+
+#: lib/BlockIcon/Api/Account.php:33
+msgid "Blocks"
+msgstr "Blöcke"
+
+#~ msgid "Help"
+#~ msgstr "Hilfe"
+
+#~ msgid "get German help about this system"
+#~ msgstr "Hier bekommen Sie Hilfe auf Deutsch"
+
+#~ msgid "Help page"
+#~ msgstr "Hilfe Seite"
+
+#~ msgid "Help for user administration"
+#~ msgstr "Hilfe zur Benutzeradministration"
+
+#~ msgid "User administrantion"
+#~ msgstr "Benutzeradministration"
+
+#~ msgid "copy system"
+#~ msgstr "System kopieren"
+
+#~ msgid "Help for administrating worships"
+#~ msgstr "Hilfe zum Verwalten der Gottesdienste"
+
+#~ msgid "Worship administrantion"
+#~ msgstr "Gottesdienste"
+
+#~ msgid "Help for administrating newsletter"
+#~ msgstr "Hilfe zum Pfarrbrief"
+
+#~ msgid "Newsletter administrantion"
+#~ msgstr "Pfarrbrief"
+
+#~ msgid "Help for page administration"
+#~ msgstr "Hilfe zur Seitenadministration"
+
+#~ msgid "Page administrantion"
+#~ msgstr "Seitenadministration"
+
+#~ msgid "Menu administrantion"
+#~ msgstr "Menüadministration"
+
+#~ msgid "Help for zensors"
+#~ msgstr "Hilfe für Zensoren"
+
+#~ msgid "Zensor"
+#~ msgstr "Zensoren"
+
+#~ msgid "Help for editors"
+#~ msgstr "Hilfe für Autoren"
+
+#~ msgid "Editors"
+#~ msgstr "Autoren"
+
+#~ msgid "Help &ndash; &copy; Sascha Rösler"
+#~ msgstr "Hilfe &ndash; &copy; Sascha Rösler"
+
+#~ msgid "Worships"
+#~ msgstr "Gottesdienste"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Church"
+#~ msgstr "Kirche"
+
+#~ msgid "Weekday"
+#~ msgstr "Wochentag"
+
+#~ msgid "Time"
+#~ msgstr "Zeit"
+
+#~ msgid "Add and manage a Church"
+#~ msgstr "Hinzufügen einer Kirche"
+
+#~ msgid "It is necessary for the hole module to create a church."
+#~ msgstr "Für dieses Modul ist es nötig eine Kirche zu erstellen"
+
+#~ msgid ""
+#~ "You can manage the churches by clicking the \"church\" button in the "
+#~ "headermenue of this module.You can see a list of all Churches there. "
+#~ "There are shown the name, the adress and an internel ID. In the right "
+#~ "there are buttons. With the rubbish you can delete Churches, with the "
+#~ "green peg you can add a church and with the red cross you can delete the "
+#~ "inputboxes befor adding."
+#~ msgstr ""
+#~ "You can manage the churches by clicking the \"church\" button in the "
+#~ "headermenue of this module.You can see a list of all Churches there. "
+#~ "There are shown the name, the adress and an internel ID. In the right "
+#~ "there are buttons. With the rubbish you can delete Churches, with the "
+#~ "green peg you can add a church and with the red cross you can delete the "
+#~ "inputboxes befor adding."
+
+#~ msgid "Admin main page"
+#~ msgstr "Administrationsseite"
+
+#~ msgid "Churches"
+#~ msgstr "Kirche"
+
+#~ msgid "Adress"
+#~ msgstr "Adresse"
